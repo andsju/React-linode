@@ -1,4 +1,4 @@
-# MERN stack: localhost and Linode
+# React app: localhost and Linode
 
 server - client
 
